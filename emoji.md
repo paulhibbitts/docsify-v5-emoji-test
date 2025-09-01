@@ -1,4 +1,4 @@
-# Emoji Test (view raw Markdown)
+# Emoji Slug Test (view raw Markdown)
 
 ## ✏ Text Pencil
 Some content here.
