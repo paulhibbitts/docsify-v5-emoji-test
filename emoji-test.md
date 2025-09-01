@@ -1,4 +1,6 @@
-# Emoji Slug Test (view raw Markdown)
+# Emoji Slug Test
+
+View on GitHub: https://github.com/paulhibbitts/docsify-v5-emoji-test/blob/main/emoji-test.md
 
 ## ✏ Text Pencil
 Some content here.
