@@ -1,3 +1,4 @@
 - [Read Me](README)
 - [Example Second Page](second-page)
-- [Emoji Test](emoji)
+- [Emojis](emoji)
+- [Emoji Test](emoji-2)
