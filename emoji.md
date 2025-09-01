@@ -8,6 +8,12 @@ Some content here.
 ## ✏️ Emoji Pencil  
 Some content here.
 
+✏ Text Pencil
+Some content here.
+
+✏️ Emoji Pencil  
+Some content here.
+
 ## café
 Some content here.
 
